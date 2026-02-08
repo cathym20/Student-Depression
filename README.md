@@ -35,7 +35,7 @@ Initial analysis suggests that factors such as academic pressure, sleep patterns
 
 ### Libraries
 
-This project was implemented in Python using Pandas and NumPy for data manipulation, Scikit-learn for preprocessing and modelling, and Matplotlib for visualisation during exploratory analysis.
+This project was implemented in Python using Pandas and NumPy for data manipulation, Scikit-learn for preprocessing and modelling, and Matplotlib and Seaborn for visualisation during exploratory analysis.
 
 
 ### Conclusion
